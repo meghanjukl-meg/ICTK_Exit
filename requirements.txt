@@ -1,0 +1,15 @@
+# Data Wrangling & Math
+pandas
+numpy
+
+# Machine Learning & Preprocessing
+scikit-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Web Application
+streamlit
